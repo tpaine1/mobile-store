@@ -1,7 +1,7 @@
 <!DOCTYPE html> 
 <html> 
 	<head> 
-            <h1><?php echo formatTitle($title)?></h1> 
+            <title><?php echo formatTitle($title)?></title> 
 	
 	<meta name="viewport" content="width=device-width, initial-scale=1" /> 
 
