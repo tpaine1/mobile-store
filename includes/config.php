@@ -13,6 +13,6 @@ $db_name = 'mobile_db';
 /*=========== Website Configuration ==========*/
 
 $defaultTitle = 'Mobile Computer Store';
-$defaultFooter = date('Y').' &copy; Computer Store';
+$defaultFooter = date('Y:M:D').' &copy; Computer Store';
 
 ?>
